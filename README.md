@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I cook for a Christian Preschool.
-I code for myself.
+✟ I cook for a Christian Preschool.
+
+✍ I code for myself. 
 
 Interests:
 * Genetic Algorithms / Genetic Programming 
