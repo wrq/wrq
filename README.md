@@ -1,11 +1,11 @@
-
-> Ecclesiastes 12:13-14 (CSB) When all has been heard, the conclusion of the matter is this: fear God and keep his commands, because this is for all humanity. For God will bring every act to judgment, including every hidden thing, whether good or evil.
-
-✟ I cook for a Christian Preschool.
+> “Of all the preposterous assumptions of humanity over humanity, nothing exceeds most of the criticisms made on the habits of the poor by the well-housed, well- warmed, and well-fed.”
+Herman Melville 
 
 ✍ I code for myself. 
 
 Interests:
 * Genetic Algorithms / Genetic Programming 
 * Data Science / Data Mining / Scraping
-* Game AI
+* Game AI / Procedural Generation
+
+Hire me: haydenjones %% protonmail.com
