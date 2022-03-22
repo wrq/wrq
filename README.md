@@ -5,7 +5,6 @@ Herman Melville
 
 Interests:
 * Genetic Algorithms / Genetic Programming 
-* Data Science / Data Mining / Scraping
-* Game AI / Procedural Generation
+* Ruby / Rails / Code Tooling
 
 Hire me: open an issue on wrq/wrq with your contact info
