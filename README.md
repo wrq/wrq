@@ -5,6 +5,6 @@ Herman Melville
 
 Interests:
 * Genetic Algorithms / Genetic Programming 
-* Ruby / Rails / Code Tooling
+* Python 
 
 Hire me: open an issue on wrq/wrq with your contact info
