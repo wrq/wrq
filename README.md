@@ -8,3 +8,4 @@ Interests:
 * Python 
 
 Hire me: open an issue on wrq/wrq with your contact info
+Blog: write.as/automata
