@@ -5,7 +5,7 @@ Herman Melville
 
 Interests:
 * Genetic Algorithms / Genetic Programming 
-* Python 
+* Code shouldn't suck - not to write, and not to read, and certainly not to maintain
 
 Hire me: open an issue on wrq/wrq with your contact info
 
