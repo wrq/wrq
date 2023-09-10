@@ -1,12 +1,10 @@
-> “Of all the preposterous assumptions of humanity over humanity, nothing exceeds most of the criticisms made on the habits of the poor by the well-housed, well-warmed, and well-fed.”
-Herman Melville 
 
-✍ Self-taught 🧠 hungry mind ✝️ Jesus follower
 
 Interests:
-* Genetic Algorithms / Genetic Programming 
-* Code shouldn't suck - not to write, and not to read, and certainly not to maintain
+* Genetic Programming / Evolutionary Computation in general
+* Python / Django 
+* Code Quality / Static Analysis
 
-Hire me: open an issue on wrq/wrq with your contact info
+What it's all about:
 
-Blog: [write.as/automata](https://write.as/automata)
+![A735E76D-9104-43D5-8AE3-20CF288F524D](https://github.com/wrq/wrq/assets/16211289/9e84af52-671a-4cc5-92e5-e25a50cfd10a)
