@@ -2,7 +2,7 @@
 
 Interests:
 * Genetic Programming / Evolutionary Computation in general
-* Python / Django 
+* Go / CLI
 * Code Quality / Static Analysis
 
 What it's all about:
