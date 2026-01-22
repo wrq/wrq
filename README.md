@@ -1,10 +1,1 @@
-
-
-Interests:
-* Genetic Programming / Evolutionary Computation in general
-* Go / CLI
-* Code Quality / Static Analysis
-
-What it's all about:
-![IMG_4522](https://github.com/user-attachments/assets/18cb8e4c-8c14-4791-8c7c-0935d6ef7577)
-
+![pulsing human](https://github.com/user-attachments/assets/0a6bb252-4d35-45b6-99ba-daeb3bdbbf37)
